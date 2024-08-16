@@ -9,7 +9,7 @@ redirect_from:
 
 <p style="line-height:20px; text-align:justify;">Jian Weng is a professor with the College of Cyber Security in JNU. He received his Ph.D. from Shanghai Jiao Tong University in 2008. Over his career, he has published more than 100 papers in leading international conferences and journals, including CRYPTO, EUROCRYPT, ASIACRYPT, USENIX Security, NDSS, IEEE TPAMI, IEEE TIFS, and IEEE TDSC. Jian Weng has also successfully led over 10 major research projects in China, supported by the National Key R&D Program, the National Natural Science Foundation of China (including Distinguished Young Scholars, Key Program, General Program, and Young Scientists Fund), and several significant projects in basic and applied research in Guangdong Province.</p>
 
-**Research interests:** public key cryptography, cloud security, data security and privacy, blockchain  
+**Research interests:** public key cryptography, data security and privacy, blockchain  
 
 **Email:** cryptjweng[at]gmail.com
 
@@ -27,15 +27,16 @@ My Journal and Conference Publications can be found at [my Google Scholar profil
 + General Chair of SecureComm 2016
 + Associate Editor of IEEE Transactions on Vehicular Technology (2018-2020)
 + Program Chair of ISPEC 2011
-+ Program Chair of RFIDsec 2013 Asia
-+ Program Committee Member for over 50 international conferences, including IWSEC 2013, IWSEC 2012, ISC 2011, WISTP 2011, ISPEC 2013, and ISPEC 2012
++ Program Chair of RFIDsec 2013
++ Program Committee Member for over 50 international conferences, including IWSEC 2013, ISPEC 2013, IWSEC 2012, ISC 2011, WISTP 2011, and ISPEC 2012
 
 
 ## Selected Recent Grants
 
-+ "Research on Key Technologies of Cryptography-Based Multi-Party Privacy-Enhancing Computing", Key Program of the National Natural Science Foundation of China, PI, Duration: 2024.01~2028.12.
-+ "Research on a Novel Cross-Chain System Supporting Interoperability Across Heterogeneous Blockchains", National Key Research and Development Program of China, PI, Duration: 2020.11~2023.10.
-+ "Public Key Cryptography", National Science Fund for Distinguished Young Scholars of China, PI, 2019.01~2023.12.
++ "Research on Key Technologies of Cryptography-Based Multi-Party Privacy-Enhancing Computing", the Key Program of the National Natural Science Foundation of China, PI, Duration: 2024.01~2028.12.
++ "Research on a Novel Cross-Chain System Supporting Interoperability Across Heterogeneous Blockchains", the National Key Research and Development Program of China, PI, Duration: 2020.11~2023.10.
++ "Public Key Cryptography", the National Science Fund for Distinguished Young Scholars of China, PI, 2019.01~2023.12.
++ "Research on Key Technologies for Information Detection and Security Protection in Vehicular Networks", the Joint Funds of the National Natural Science Foundation of China, PI, Duration: 2018.01~2021.12.
 
 
 ## Selected Social Services

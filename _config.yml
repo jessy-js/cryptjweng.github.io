@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Chain"
+locale                   : "China"
 title                    : "Jian Weng / Homepage"
 title_separator          : "-"
 name                     : &name "Jian Weng"

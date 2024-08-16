@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p style="line-height:20px; text-align:justify;">Jian Weng is a professor with </p> [the College of Cyber Security in JNU](https://cybsec.jnu.edu.cn/). <p style="line-height:20px; text-align:justify;">He received his B.S. and M.S. degrees from South China University of Technology in 2001 and 2004, respectively, and earned his Ph.D. from Shanghai Jiao Tong University in 2008. Over his career, he has published more than 100 papers in leading international conferences and journals, including CRYPTO, EUROCRYPT, ASIACRYPT, IEEE TPAMI, IEEE TIFS, and IEEE TDSC.</p>   
+<p style="line-height:20px; text-align:justify;">Jian Weng is a professor with the College of Cyber Security in JNU. He received his B.S. and M.S. degrees from South China University of Technology in 2001 and 2004, respectively, and earned his Ph.D. from Shanghai Jiao Tong University in 2008. Over his career, he has published more than 100 papers in leading international conferences and journals, including CRYPTO, EUROCRYPT, ASIACRYPT, IEEE TPAMI, IEEE TIFS, and IEEE TDSC. Jian Weng has also successfully led over 10 major research projects in China, supported by the National Key R&D Program, the National Natural Science Foundation of China (including Distinguished Young Scholars, Key Program, General Program, and Young Scientists Fund), and several significant projects in basic and applied research in Guangdong Province.</p>
 
-<p style="line-height:20px; text-align:justify;">Jian Weng has also successfully led over 10 major research projects in China, supported by the National Key R&D Program, the National Natural Science Foundation of China (including Distinguished Young Scholars, Key Program, General Program, and Young Scientists Fund), and several significant projects in basic and applied research in Guangdong Province.</p>
-
-<p style="line-height:20px; text-align:justify;">cryptjweng[at]gmail.com</p>
+<p style="line-height:20px; text-align:justify;">**Email:** cryptjweng[at]gmail.com</p>
 
 ## Research Interests
 
@@ -42,9 +40,10 @@ My Journal and Conference Publications can be found at [my Google Scholar profil
 ## Professional Activities
 
 + Co-Chair of ASIACRYPT 2023
-+ Program Chair of the 2023 China Cryptography Conference
-+ General Chair of the International Conference on Information Security and Cryptology (Inscrypt) 2021
++ Program Chair of ChinaCrypt 2023
++ General Chair of Inscrypt 2021
 + General Chair of SecureComm 2016
++ Associate Editor of IEEE Transactions on Vehicular Technology (2018-2020)
 + Program Chair of ISPEC 2011
 + Program Chair of RFIDsec 2013 Asia
 + Program Committee Member for over 50 international conferences, including IWSEC 2013, IWSEC 2012, ISC 2011, WISTP 2011, ISPEC 2013, and ISPEC 2012.

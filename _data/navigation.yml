@@ -10,10 +10,7 @@ main:
     url: /about/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Awards"
-    url: /awards/
+    url: /talks/
     
   - title: "Service"
     url: /service/

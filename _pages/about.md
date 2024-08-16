@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="line-height:20px; text-align:justify;">Jian Weng is a professor with the College of Cyber Security in JNU. He received his Ph.D. from Shanghai Jiao Tong University in 2008. Over his career, he has published more than 100 papers in leading international conferences and journals, including CRYPTO, EUROCRYPT, ASIACRYPT, USENIX Security, NDSS, IEEE TPAMI, IEEE TIFS, and IEEE TDSC. Jian Weng has also successfully led over 10 major research projects in China, supported by the National Key R&D Program, the National Natural Science Foundation of China (including Distinguished Young Scholars, Key Program, General Program, and Young Scientists Fund), and several significant projects in basic and applied research in Guangdong Province.</p>
+<p style="line-height:20px; text-align:justify;">Jian Weng is a professor with the College of Cyber Security in Jinan University. He received his Ph.D. from Shanghai Jiao Tong University in 2008. Over his career, he has published more than 100 papers in leading international conferences and journals, including CRYPTO, EUROCRYPT, ASIACRYPT, USENIX Security, NDSS, IEEE TPAMI, IEEE TIFS, and IEEE TDSC. Jian Weng has also successfully led over 10 major research projects in China, supported by the National Key R&D Program, the National Natural Science Foundation of China (including Distinguished Young Scholars, Key Program, General Program, and Young Scientists Fund), and several significant projects in basic and applied research in Guangdong Province.</p>
 
 **Research interests:** public key cryptography, data security and privacy, blockchain  
 
@@ -28,7 +28,7 @@ My Journal and Conference Publications can be found at [my Google Scholar profil
 + Associate Editor of IEEE Transactions on Vehicular Technology (2018-2020)
 + Program Chair of ISPEC 2011
 + Program Chair of RFIDsec 2013
-+ Program Committee Member for over 50 international conferences, including IWSEC 2013, ISPEC 2013, IWSEC 2012, ISC 2011, WISTP 2011, and ISPEC 2012
++ Program Committee Member for over 50 international conferences, including IWSEC 2013, ISPEC 2013, IWSEC 2012, ISPEC 2012, ISC 2011, and WISTP 2011
 
 
 ## Selected Recent Grants

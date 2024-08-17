@@ -41,22 +41,22 @@ My Journal and Conference Publications can be found at [my Google Scholar profil
 
 ## Selected Social Services
 
-+ Member of the Cybersecurity and Information Security Expert Group of the Ministry of Science and Technology
-+ Chief Scientist of the National Key R&D Program
-+ Member of the Cyberspace Security Discipline Review Group of the Academic Degrees Committee of the State Council
-+ Member of the Science and Technology Committee of the Ministry of Education
-+ President of the Guangdong Institute of Digital Government
++ Member of the Cybersecurity and Information Security Expert Group of the Ministry of Science and Technology in China
++ Chief Scientist of the National Key R&D Program in China
++ Member of the Cyberspace Security Discipline Review Group of the Academic Degrees Committee of the State Council in China
++ Member of the Science and Technology Committee of the Ministry of Education in China
++ President of the Guangdong Institute of Digital Government 
 + Director of the Guangdong Data Security Compliance Committee
 
 
 ## Selected Awards
 
-+ Second Prize of the National Technological Invention Award (2020)
-+ First Prize of the Guangdong Natural Science Award (2021)
 + First Prize of the Guangdong Science and Technology Progress Award (2023)
 + Guangdong Ding Ying Science and Technology Award (2023)
-+ Outstanding Network Security Teacher Award (2017)
++ First Prize of the Guangdong Natural Science Award (2021)
++ Second Prize of the National Technological Invention Award (2020)
 + Best Paper Award at the 25th European Symposium on Research in Computer Security (ESORICS 2020)
++ Outstanding Network Security Teacher Award in China (2017)
 + Best Student Paper Award at the 37th IEEE International Conference on Distributed Computing Systems (ICDCS 2017)
 + Best Student Paper Award at the 10th International Conference on Provable Security (ProvSec 2014)
 + Best Paper Award at the 26th Symposium on Cryptography and Information Security (SCIS 2011)
